@@ -14,7 +14,7 @@
 		<license>GNU General Public License, v2</license>
 		<language></language>
 		<forum>http://www.telpro.info</forum>
-		<source>http://premiere.890m.com</source>
+		<source>https://github.com/juampixto/plugin.video.telpro</source>
 		<email>soporte@telpro.info</email>
 	</extension>
 </addon>
